@@ -120,7 +120,9 @@ class BinarySearchTree {
     /**
      * 中序遍历节点
      */
-    inOrderTraverse() {}
+    inOrderTraverse() {
+        
+    }
     /**
      * 先序遍历节点
      */
